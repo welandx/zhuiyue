@@ -1,5 +1,9 @@
-# 流星追月的[Rime输入法](https://rime.im)配置
+# zhuiyue 方案的虎码修改
+使用虎码的前两码简单代替了鹤形
 
+以下是原自述文件
+-------
+# 流星追月的[Rime输入法](https://rime.im)配置
 ## 小鹤音形配置
 ### 特点
   - 采用[小鹤音形](https://www.flypy.com)方案，码表来自[酥梨小鹤](https://github.com/zodensu/FlyPY-zodensu)和[开源小鹤](https://github.com/amorphobia/openfly)，单字字频来自[Google拼音]()(我把字频做了一些运算，最大值改到100)
